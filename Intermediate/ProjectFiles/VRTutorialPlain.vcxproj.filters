@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\VRTutorialPlain.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{3A8A593E-315B-4EDD-84F9-8B28337717A3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\VRTutorialPlain.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\VRTutorialPlainEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{43C840EA-EACD-4D82-A7D7-B6CAA334A587}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\VRTutorialPlain">
+      <UniqueIdentifier>{05E7F257-879D-4C76-9CF6-34C440A43B1F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\VRTutorialPlain\VRTutorialPlain.Build.cs">
+      <Filter>Source\VRTutorialPlain</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\VRTutorialPlain\VRTutorialPlain.cpp">
+      <Filter>Source\VRTutorialPlain</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VRTutorialPlain\VRTutorialPlain.h">
+      <Filter>Source\VRTutorialPlain</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VRTutorialPlain\VRTutorialPlainGameModeBase.cpp">
+      <Filter>Source\VRTutorialPlain</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VRTutorialPlain\VRTutorialPlainGameModeBase.h">
+      <Filter>Source\VRTutorialPlain</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\VRTutorialPlain\VRCharacter.h">
+      <Filter>Source\VRTutorialPlain</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\VRTutorialPlain\VRCharacter.cpp">
+      <Filter>Source\VRTutorialPlain</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
