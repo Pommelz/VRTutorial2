@@ -19,7 +19,7 @@ void EmptyLinkFunctionForGeneratedCodeVRTutorialPlain_init() {}
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/VRTutorialPlain",
 				PKG_CompiledIn | 0x00000000,
-				0xFC20EEE0,
+				0xA1EE1476,
 				0x8457A249,
 				nullptr, 0,
 				METADATA_PARAMS(nullptr, 0)

@@ -23,9 +23,9 @@
 /wd4838
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source"
-/I "C:\Users\Pommelz\Documents\Unreal Projects\VRTutorialPlain\Source"
-/I "C:\Users\Pommelz\Documents\Unreal Projects\VRTutorialPlain\Intermediate\Build\Win64\UE4Editor\Inc\VRTutorialPlain"
-/I "C:\Users\Pommelz\Documents\Unreal Projects\VRTutorialPlain\Source\VRTutorialPlain"
+/I "C:\Users\Pommelz\Documents\Unreal Projects\VRTutorial2\VRTutorial2\Source"
+/I "C:\Users\Pommelz\Documents\Unreal Projects\VRTutorial2\VRTutorial2\Intermediate\Build\Win64\UE4Editor\Inc\VRTutorialPlain"
+/I "C:\Users\Pommelz\Documents\Unreal Projects\VRTutorial2\VRTutorial2\Source\VRTutorialPlain"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Async"
@@ -363,9 +363,9 @@
 /FI"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\Pommelz\Documents\Unreal Projects\VRTutorialPlain\Intermediate\Build\Win64\UE4Editor\Inc\VRTutorialPlain\VRTutorialPlainGameModeBase.gen.cpp"
-/FI"C:\Users\Pommelz\Documents\Unreal Projects\VRTutorialPlain\Intermediate\Build\Win64\UE4Editor\Development\VRTutorialPlain\Definitions.VRTutorialPlain.h"
-/Fo"C:\Users\Pommelz\Documents\Unreal Projects\VRTutorialPlain\Intermediate\Build\Win64\UE4Editor\Development\VRTutorialPlain\VRTutorialPlainGameModeBase.gen.cpp.obj"
+"C:\Users\Pommelz\Documents\Unreal Projects\VRTutorial2\VRTutorial2\Intermediate\Build\Win64\UE4Editor\Inc\VRTutorialPlain\VRTutorialPlainGameModeBase.gen.cpp"
+/FI"C:\Users\Pommelz\Documents\Unreal Projects\VRTutorial2\VRTutorial2\Intermediate\Build\Win64\UE4Editor\Development\VRTutorialPlain\Definitions.VRTutorialPlain.h"
+/Fo"C:\Users\Pommelz\Documents\Unreal Projects\VRTutorial2\VRTutorial2\Intermediate\Build\Win64\UE4Editor\Development\VRTutorialPlain\VRTutorialPlainGameModeBase.gen.cpp.obj"
 /TP
 /GR-
 /W4
